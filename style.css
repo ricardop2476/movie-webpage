@@ -11,4 +11,9 @@ p {
 /*.strong {
     font-weight: bold;
 }
-*
+*/
+
+
+content {
+    float: right;
+}
