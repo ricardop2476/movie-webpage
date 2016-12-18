@@ -5,15 +5,13 @@ h1{
 
 p {
     font-family: 'Cabin', sans-serif;
+}
 
+body {
+    background-color: #e0e0eb;
 }
 
 /*.strong {
     font-weight: bold;
 }
 */
-
-
-content {
-    float: right;
-}
