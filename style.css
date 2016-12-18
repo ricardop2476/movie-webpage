@@ -22,3 +22,9 @@ body {
     position: relative;
     bottom: 155px;
 }
+
+#img2 {
+    position: relative;
+    left:1000px;
+    bottom:450px;
+}
