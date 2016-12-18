@@ -11,13 +11,14 @@ body {
     background-color: #e0e0eb;
 }
 
-/*.strong {
-    font-weight: bold;
-}
-*/
 .content {
-    max-width:450px;
-    position:relative;
-    left:450px;
+    max-width: 450px;
+    position: relative;
+    left: 450px;
     top: 50px;
+}
+
+#img1 {
+    position: relative;
+    bottom: 155px;
 }
