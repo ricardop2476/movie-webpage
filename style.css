@@ -14,7 +14,7 @@ body {
 .content {
     max-width: 450px;
     position: relative;
-    left: 450px;
+    left: 460px;
     top: 50px;
 }
 
@@ -27,4 +27,11 @@ body {
     position: relative;
     left:1000px;
     bottom:450px;
+}
+
+#input {
+    float:left;
+    position: relative;
+    bottom:539px;
+    left:460px;
 }
