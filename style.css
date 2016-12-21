@@ -35,3 +35,10 @@ body {
     bottom:539px;
     left:460px;
 }
+
+#audio {
+    float: left;
+    position: relative;
+    bottom:565px;
+    left:70px;
+}
